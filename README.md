@@ -1,15 +1,7 @@
 # 🔐 Firebase Authentication & Profile App
 
 A modern Flutter application with **Firebase Authentication** and **Cloud Firestore** integration, featuring a beautiful UI with smooth animations, real-time data updates, and toast notifications.
-
-## 📱 Screenshots
-
-| Login Screen | Register Screen | Profile Screen | Reset Password |
-|-------------|----------------|----------------|----------------|
-| Modern login UI | Clean registration | User profile display | Password recovery |
-
 ## ✨ Features
-
 ### 🔐 Authentication
 - ✅ **Email/Password Sign Up** - Create new account with email verification
 - ✅ **Email/Password Login** - Secure login with validation
